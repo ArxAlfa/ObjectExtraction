@@ -4,7 +4,7 @@
 
 ## Objective
 
-![](/home/alfa/Documentos/TFG/tutorialR/objectExtraction/img/explanation.png)
+![](/img/explanation.png)
 
 
 
@@ -28,15 +28,15 @@
 
 
 
-![](/home/alfa/Documentos/TFG/tutorialR/objectExtraction/img/HSVhistogram.png)
+![](/img/HSVhistogram.png)
 
 
 
-![](/home/alfa/Documentos/TFG/tutorialR/objectExtraction/img/SVHistogram.png)
+![](/img/SVHistogram.png)
 
 
 
-![](/home/alfa/Documentos/TFG/tutorialR/objectExtraction/img/TableNotRotated.png)
+![](/img/TableNotRotated.png)
 
 
 
@@ -48,13 +48,13 @@
 
 
 
-![](/home/alfa/Documentos/TFG/tutorialR/objectExtraction/img/TableOriented.png)
+![](/img/TableOriented.png)
 
 
 
 ## Filtering the top of the table
 
-![](/home/alfa/Documentos/TFG/tutorialR/objectExtraction/img/TableWithObject.png)
+![](/img/TableWithObject.png)
 
 
 
@@ -66,8 +66,8 @@
 
 
 
-![](/home/alfa/Documentos/TFG/tutorialR/objectExtraction/img/Object.png)
+![](/img/Object.png)
 
 ## Final Result
 
-![](/home/alfa/Documentos/TFG/tutorialR/objectExtraction/img/objMeshLab.png)
+![](/img/objMeshLab.png)
